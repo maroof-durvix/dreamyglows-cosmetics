@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "banner-dr-ar-oliv-e-c",
+    "title": "Dr. AR OLIV-E-C Whitening Active Concentrate",
+    "imageUrl": "/banners/banner-oliv-e-c.jpg",
+    "link": "/product/dr-ar-oliv-e-c-whitening-serum",
+    "order": 1
+  },
+  {
+    "_id": "banner-dr-ar-mak",
+    "title": "Dr. AR Mak Mandelic Acid Serum",
+    "imageUrl": "/banners/banner-mak.jpg",
+    "link": "/product/dr-ar-mak-mandelic-acid-serum",
+    "order": 2
+  },
+  {
+    "_id": "banner-dr-ar-eye-s",
+    "title": "Dr. AR EYE-S Eye Protect Shampoo",
+    "imageUrl": "/banners/banner-eye-s.jpg",
+    "link": "/product/dr-ar-eye-s-eye-protect-shampoo",
+    "order": 3
+  }
+]

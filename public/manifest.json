@@ -1,0 +1,21 @@
+{
+  "name": "DreamyGlows",
+  "short_name": "DreamyGlows",
+  "description": "Premium Skincare & Scalp Serums",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#072417",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "_id": "product-dr-ar-oliv-e-c",
+    "title": "Dr. AR OLIV-E-C Whitening Active Concentrate",
+    "slug": "dr-ar-oliv-e-c-whitening-serum",
+    "images": [
+      "/products/dr-ar-oliv-e-c.jpg",
+      "/products/dr-ar-oliv-e-c-full.jpg"
+    ],
+    "description": "Unlock a radiant, youthful complexion with our advanced Vitamin C and E synergy. This potent concentrate targets hyperpigmentation, reduces wrinkles, and deeply hydrates for a luminous, even-toned finish. Powered by 5% Pure Vitamin C & 5% Vitamin E Duo.",
+    "category": "Skin Care",
+    "gender": "Unisex",
+    "concern": [
+      "Dullness & Uneven Tone",
+      "Hyperpigmentation",
+      "Anti-Aging"
+    ],
+    "variants": [
+      {
+        "title": "30ml Dropper Bottle",
+        "price": 2450,
+        "compareAtPrice": 3000,
+        "sku": "DRAR-OLIVEC-30",
+        "stock": 50,
+        "inStock": true
+      },
+      {
+        "title": "Pack of 2 (30ml x 2)",
+        "price": 4499,
+        "compareAtPrice": 6000,
+        "sku": "DRAR-OLIVEC-P2",
+        "stock": 20,
+        "inStock": true
+      }
+    ],
+    "benefits": [
+      "5% Vitamin C for dynamic visible brightening and dark spot reduction",
+      "5% Vitamin E for deep anti-aging lipid barrier hydration",
+      "Reduces fine lines, wrinkles, and oxidative stress damage",
+      "Dermatologist tested and beyond pure formulation"
+    ],
+    "ingredients": [
+      "Water (Aqua)",
+      "L-Ascorbic Acid (Vitamin C 5%)",
+      "Tocopherol Acetate (Vitamin E 5%)",
+      "Canola Oil",
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Phenoxyethanol"
+    ],
+    "howToUse": [
+      "Cleanse face thoroughly and pat dry.",
+      "Apply 3-4 drops of Dr. AR OLIV-E-C onto face and neck.",
+      "Gently massage in circular motions until fully absorbed.",
+      "Use morning and night for best brightening results."
+    ],
+    "specs": [
+      {
+        "key": "Volume",
+        "value": "30ml (1.0 fl. oz)"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All skin types (Sensitive, Dry, Normal, Oily)"
+      },
+      {
+        "key": "Key Actives",
+        "value": "5% Vit C, 5% Vit E, Canola Oil"
+      },
+      {
+        "key": "Preservative Free",
+        "value": "Paraben & Sulfate Free"
+      }
+    ],
+    "rating": 4.9,
+    "reviewCount": 38,
+    "featured": true,
+    "faqs": []
+  },
+  {
+    "_id": "product-dr-ar-mak",
+    "title": "Dr. AR MAK Mandelic Acid Serum (20% + 2% HA)",
+    "slug": "dr-ar-mak-mandelic-acid-serum",
+    "images": [
+      "/products/dr-ar-mak.jpg",
+      "/products/dr-ar-mak-full.jpg"
+    ],
+    "description": "Formulated with 20% Mandelic Acid and 2% Hyaluronic Acid. Gently exfoliates dead skin cells, clears clogged pores, refines skin texture, and fades stubborn post-acne marks without harsh irritation.",
+    "category": "Skin Care",
+    "gender": "Unisex",
+    "concern": [
+      "Acne & Blemishes",
+      "Texture & Pores",
+      "Hyperpigmentation"
+    ],
+    "variants": [
+      {
+        "title": "30ml Dropper Bottle",
+        "price": 2650,
+        "compareAtPrice": 3200,
+        "sku": "DRAR-MAK-30",
+        "stock": 45,
+        "inStock": true
+      }
+    ],
+    "benefits": [
+      "20% Mandelic Acid for gentle surface skin resurfacing",
+      "2% Hyaluronic Acid to keep skin hydrated during exfoliation",
+      "Clears blocked sebum and tightens visible enlarged pores",
+      "Reduces active breakouts and fades persistent post-acne dark marks"
+    ],
+    "ingredients": [
+      "Water (Aqua)",
+      "Mandelic Acid (20%)",
+      "Sodium Hyaluronate (2%)",
+      "Propylene Glycol",
+      "Glycerin",
+      "Allantoin",
+      "Triethanolamine",
+      "Phenoxyethanol"
+    ],
+    "howToUse": [
+      "Apply 2-3 drops to cleansed, dry skin at night.",
+      "Gently smooth over face, avoiding eye contour.",
+      "Allow to absorb for 2 minutes before applying moisturizer.",
+      "Always wear sunscreen during daytime when using acid treatments."
+    ],
+    "specs": [
+      {
+        "key": "Volume",
+        "value": "30ml (1.0 fl. oz)"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Acne-prone, Oily, Combination, Sensitive"
+      },
+      {
+        "key": "Key Actives",
+        "value": "20% Mandelic Acid, 2% HA"
+      },
+      {
+        "key": "Preservative Free",
+        "value": "Paraben & Sulfate Free"
+      }
+    ],
+    "rating": 4.8,
+    "reviewCount": 24,
+    "featured": true,
+    "faqs": []
+  },
+  {
+    "_id": "product-dr-ar-eye-c",
+    "title": "Dr. AR EYE-S Eye Protect Cleansing Gel & Eyelid Solution",
+    "slug": "dr-ar-eye-s-eye-protect-shampoo",
+    "images": [
+      "/products/dr-ar-eye-s.jpg",
+      "/products/dr-ar-eye-s-full.jpg"
+    ],
+    "description": "A medical-grade physiological cleanser designed for the delicate eye area and sensitive skin. 100% paraben and salt-free formula with Vitamins A, E & C. Effectively washes away impurities, eye makeup, and daily pollution without stinging or drying.",
+    "category": "Eye & Face Care",
+    "gender": "Unisex",
+    "concern": [
+      "Sensitive Skin",
+      "Daily Cleansing",
+      "Eye Area Hygiene"
+    ],
+    "variants": [
+      {
+        "title": "150ml Pump Bottle",
+        "price": 1850,
+        "compareAtPrice": 2200,
+        "sku": "DRAR-EYES-150",
+        "stock": 60,
+        "inStock": true
+      }
+    ],
+    "benefits": [
+      "100% Paraben, salt, and sulfate free gentle formula",
+      "Enriched with Vitamins A, E & C to soothe delicate eye area",
+      "Ophthalmologist & dermatologist tested for zero ocular stinging",
+      "Effectively removes stubborn makeup, sebum, and micro-pollutants"
+    ],
+    "ingredients": [
+      "Purified Water",
+      "Disodium Cocoamphodiacetate",
+      "Retinyl Palmitate (Vitamin A)",
+      "Tocopheryl Acetate (Vitamin E)",
+      "Ascorbic Acid (Vitamin C)",
+      "Chamomile Extract",
+      "Glycerin",
+      "Citric Acid"
+    ],
+    "howToUse": [
+      "Pump a small amount onto damp hands or cotton pad.",
+      "Gently cleanse around closed eyelids and face with circular motions.",
+      "Rinse thoroughly with lukewarm water and pat dry.",
+      "Safe for morning and evening daily use."
+    ],
+    "specs": [
+      {
+        "key": "Volume",
+        "value": "150ml (5.0 fl. oz)"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Sensitive, All Skin Types"
+      },
+      {
+        "key": "Key Actives",
+        "value": "Vitamins A, E & C, Chamomile"
+      },
+      {
+        "key": "Preservative Free",
+        "value": "100% Paraben & Salt Free"
+      }
+    ],
+    "rating": 4.9,
+    "reviewCount": 19,
+    "featured": true,
+    "faqs": []
+  }
+]

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 64" fill="none">
+  <defs>
+    <linearGradient id="leafGrad" x1="12" y1="8" x2="44" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="50%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+  <!-- Emblem -->
+  <circle cx="32" cy="32" r="28" stroke="#10b981" stroke-width="1.5" stroke-dasharray="3 3" opacity="0.4"/>
+  <path d="M32 10C32 10 48 22 48 36C48 45 40.8 52 32 52C23.2 52 16 45 16 36C16 22 32 10 32 10Z" fill="url(#leafGrad)"/>
+  <path d="M32 18V48M32 26L38 22M32 33L40 28M32 30L24 25M32 37L25 32" stroke="#0d281a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <!-- Text -->
+  <text x="74" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="900" fill="#ffffff" letter-spacing="3">DREAMY<tspan fill="#34d399">GLOWS</tspan></text>
+  <text x="75" y="49" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="600" fill="#a7f3d0" letter-spacing="3.5">CLINICAL BOTANICALS</text>
+</svg>

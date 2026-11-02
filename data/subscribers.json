@@ -1,0 +1,10 @@
+[
+  {
+    "id": "subscriber-test_example_com",
+    "email": "test@example.com",
+    "source": "homepage_newsletter",
+    "status": "active",
+    "subscribedAt": "2026-09-03T09:56:33.727Z",
+    "sanitySynced": true
+  }
+]
